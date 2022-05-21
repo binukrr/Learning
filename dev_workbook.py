@@ -1,4 +1,4 @@
-#age = int(input("What is your age please?"))
+age = int(input("What is your age please?"))
 
 names = {"Binu", "Vinod"}
 print(names)
